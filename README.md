@@ -1,6 +1,6 @@
 # Store
 
-Develop an order workflow with REST API’s where API clients will be able to:
+Developed an order workflow with REST API’s where API clients will be able to:
 ○ Created orders. Order shall have order information and items.
 ○ Created customers. System shall not allow to add new customer with already
 existing customer email.
